@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "RIT Attendance Tracker",
+  "version": "1.1",
+  "description": "Effortlessly track your attendance on the Rajarambapu Institute of Technology portal! This extension calculates your attendance percentage and shows how many more lectures you need to reach 75%.",
+  "permissions": ["storage", "scripting"],
+  "host_permissions": ["*://*/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+      "default_popup": "popup.html"
+  }
+}
