@@ -1,3 +1,4 @@
+<!-- popup.html - Updated Modern UI -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -7,20 +8,24 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <h3>RIT Attendance Tracker 📊</h3>
+    <h3>RIT Attendance Tracker</h3>
 
     <div class="toggle-container">
-      <span>Enable Tracking</span>
-      <label class="toggle-switch">
-        <input type="checkbox" id="toggleTracking" />
-        <span class="slider"></span>
-      </label>
-      <p id="messageBox"></p>
+      <div class="toggle-wrapper">
+        <span>Enable Tracking</span>
+        <label class="toggle-switch">
+          <input type="checkbox" id="toggleTracking" />
+          <span class="slider"></span>
+        </label>
+      </div>
+      <div id="messageBox" style="display: none;">Reload the page for changes to take effect.</div>
     </div>
 
-    <button id="rateUs">⭐ Rate Us</button>
-    <button id="reportBug">🐞 Report a Bug</button>
-    <button id="aboutDeveloper">👨‍💻 About Developer</button>
+    <div class="button-group">
+      <button id="rateUs">⭐ Rate Us</button>
+      <button id="reportBug">🐞 Report a Bug</button>
+      <button id="aboutDeveloper">👨‍💻 About Developer</button>
+    </div>
 
     <script src="popup.js"></script>
   </body>
