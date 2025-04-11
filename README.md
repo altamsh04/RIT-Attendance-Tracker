@@ -73,4 +73,5 @@ A: Make sure the extension is enabled in your Chrome extensions menu. If the iss
 
 ## Developer Contact
 
-For support or inquiries, contact the developer through the "About Developer" section in the extension popup or reach me out on [Linkdin](https://www.linkedin.com/in/altamsh-bairagdar-324ab7254/)
+For support or inquiries, contact the developer through the "About Developer" section in the extension popup or reach me out on [LinkedIn](https://www.linkedin.com/in/altamsh-bairagdar-324ab7254/)
+
