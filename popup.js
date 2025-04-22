@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     document.getElementById("reportBug").addEventListener("click", function () {
-        window.open("https://forms.gle/yA8gkdaig5VxT8cs9", "_blank");
+        window.open("https://github.com/altamsh04/RIT-Attendance-Tracker/issues/new", "_blank");
     });
 
     document.getElementById("aboutDeveloper").addEventListener("click", function () {
