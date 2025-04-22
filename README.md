@@ -1,15 +1,11 @@
 # RIT Attendance Tracker
-
 A Chrome extension that provides enhanced attendance analytics for RIT students.
-
 ![RIT Attendance Tracker](https://github.com/user-attachments/assets/9dab65dc-10eb-4158-8dca-115f5eaf3048)
 
 ## Overview
-
 RIT Attendance Tracker is a Chrome extension designed specifically for RIT (Rajarambapu Institute of Technology) students. It enhances the native attendance page with visual analytics, performance metrics, and export capabilities to help students better monitor their attendance records.
 
 ## Features
-
 - **Visual Attendance Dashboard**: Interactive visualization of your attendance data with donut charts and trend analysis
 - **Real-time Stats**: See your current attendance percentage, present/absent counts, and required attendance to meet the 75% threshold
 - **Attendance Trend Analysis**: Visual representation of how your attendance percentage changes over time
@@ -18,20 +14,31 @@ RIT Attendance Tracker is a Chrome extension designed specifically for RIT (Raja
 
 ## Installation
 
-### From Chrome Web Store
+### Install from Chrome Web Store (Coming Soon)
 1. Visit the [Chrome Web Store](https://chrome.google.com/webstore) (Link coming soon)
 2. Search for "RIT Attendance Tracker"
 3. Click "Add to Chrome"
 
-## How to Use
+### Download locally
+1. Download Zip from Repo  
+   <img src="https://github.com/user-attachments/assets/53af3169-fc3d-4b2d-a84d-54eb2aa046a2" width="450" alt="Download Zip">
+   
+2. Open chrome://extensions/ in browser and Click on Load unpacked  
+   <img src="https://github.com/user-attachments/assets/751e7018-0807-4d6b-8aba-9189c592361e" width="450" alt="Load Unpacked">
+   
+3. Select extracted folder from download  
+   <img src="https://github.com/user-attachments/assets/eacc316f-09ce-44a6-9a44-4a69d5ec8b32" width="450" alt="Select Folder">
+   
+4. Star the repo 😊  
+   <img src="https://github.com/user-attachments/assets/3856c2c1-c524-497d-931a-e52f685df6be" width="450" alt="Star the repo">
 
+## How to Use
 1. Log in to your RIT student portal
 2. Navigate to any subject's attendance page
 3. The extension will automatically inject the attendance analytics dashboard
 4. Toggle the extension on/off using the popup menu if needed
 
 ## Privacy
-
 This extension:
 - Only processes attendance data displayed on your screen
 - Does not collect or transmit any personal information
@@ -61,17 +68,13 @@ A: No, this extension only visualizes existing data and cannot modify your atten
 A: Make sure the extension is enabled in your Chrome extensions menu. If the issue persists, try refreshing the page or reopening your browser.
 
 ## Technical Requirements
-
 - Google Chrome (v88 or higher)
 - Access to the RIT student portal
 
 ## Feedback
-
 - Rate the extension in the Chrome Web Store
-- Report bugs using the "Report a Bug" button in the extension popup or [Bug Report Form](https://forms.gle/yA8gkdaig5VxT8cs9)
+- Report bugs using the "Report A Bug" button in the extension popup or [Report A Bug](https://github.com/altamsh04/RIT-Attendance-Tracker/issues/new)
 - For feature requests, please mail me bairagdaraltamsh@gmail.com
 
 ## Developer Contact
-
 For support or inquiries, contact the developer through the "About Developer" section in the extension popup or reach me out on [LinkedIn](https://www.linkedin.com/in/altamsh-bairagdar-324ab7254/)
-
