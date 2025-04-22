@@ -14,12 +14,7 @@ RIT Attendance Tracker is a Chrome extension designed specifically for RIT (Raja
 
 ## Installation
 
-### Install from Chrome Web Store (Coming Soon)
-1. Visit the [Chrome Web Store](https://chrome.google.com/webstore) (Link coming soon)
-2. Search for "RIT Attendance Tracker"
-3. Click "Add to Chrome"
-
-### Download locally
+### Download locally 
 1. Download Zip from Repo  
    <img src="https://github.com/user-attachments/assets/53af3169-fc3d-4b2d-a84d-54eb2aa046a2" width="450" alt="Download Zip">
    
@@ -31,6 +26,11 @@ RIT Attendance Tracker is a Chrome extension designed specifically for RIT (Raja
    
 4. Star the repo 😊  
    <img src="https://github.com/user-attachments/assets/3856c2c1-c524-497d-931a-e52f685df6be" width="450" alt="Star the repo">
+
+### Install from Chrome Web Store (Coming Soon)
+1. Visit the [Chrome Web Store](https://chrome.google.com/webstore) (Link coming soon)
+2. Search for "RIT Attendance Tracker"
+3. Click "Add to Chrome"
 
 ## How to Use
 1. Log in to your RIT student portal
